@@ -107,9 +107,6 @@ class FairDistributionCurve(FairBaseCurve):
         ax.axes.xaxis.set_tick_params(left = 'true')
         for label in ax.get_xticklabels():            
             label.set_horizontalalignment('left')
-        #    tick.set_horizontalalignment('left')
-        #Wurde durch GPT geändert
-        #alter Code tick.label.set_horizontalalignment('left')
  
         # Draw histrogram for each model
         legend_labels = []
