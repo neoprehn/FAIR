@@ -1,7 +1,7 @@
 # FAIR
 Information Risk Management FAIR
 
-Basierend auf pyFAIR wird der Code weiterentwickelt
+Basierend auf pyFAIR https://github.com/Hive-Systems/pyfair wird der Code weiterentwickelt
 
 Aktuelle Weiterentwicklungen:
 - Fehlerbereinigung der pyFAIR Codes, so dass sie mit den aktuellen Python Bibliotheken laufen
